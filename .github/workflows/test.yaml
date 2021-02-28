@@ -1,4 +1,3 @@
-Code :
 name: model-supervisé RL
 on: [push]
 jobs:
